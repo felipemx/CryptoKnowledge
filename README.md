@@ -6,7 +6,7 @@ A simple project to store useful links for whose want to get more information ab
 * [Exchanges](#exchanges)
 * [Wallets](#wallets)
 * [Social Media](#social-media)
-* [Videos](#videos)[]
+* [Videos](#videos)
 * [Monitoring](#monitoring)
 * [News](#news)
 <!-- toc stop -->
