@@ -30,7 +30,11 @@ A simple project to store useful links for whose want to get more information ab
 * Virtual Wallets
 * Hardware Wallets
     * Wallets
+        * [KeepKey](https://www.keepkey.com/)
+        * [Ledger](https://www.ledgerwallet.com/)
+        * [Trezor](https://trezor.io/)
     * Physical Money
+        * [Open Dime](https://opendime.com/)
 
 ## Social Media
 * Twitter
