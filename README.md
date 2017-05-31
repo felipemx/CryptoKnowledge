@@ -40,6 +40,7 @@ A simple project to store useful links for whose want to get more information ab
 * English
     * [Aaron Ag](https://www.youtube.com/channel/UCZRS64ykndlry0RgkDwsgCQ/videos)
     * [Tommy World Power](https://www.youtube.com/user/Tommy77724/videos)
+    * [Monaco Card](https://www.youtube.com/channel/UCOMprzxakZOqmY23LYIawmg/videos)
 * Portuguese
     * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
     * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
