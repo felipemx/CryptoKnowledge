@@ -15,12 +15,17 @@ A simple project to store useful links for whose want to get more information ab
 
 ## Cards
 * Debit Cards
+    * [Xapo](https://xapo.com/card/)
+    * [Token Card](https://tokencard.io/)
+    * [Wirex](https://wirexapp.com/)
 * Credit Cards
+    * [Monaco](https://mona.co/)
 
 ## Exchanges
 
 ## Wallets
 * Virtual Wallets
+    * [Xapo](https://xapo.com/)
 * Hardware Wallets
     * Wallets
     * Physical Money
