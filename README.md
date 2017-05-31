@@ -30,7 +30,12 @@ A simple project to store useful links for whose want to get more information ab
     * [Monero](https://twitter.com/monerocurrency)
     * [PIVX](https://twitter.com/_pivx)
 * Slack
-
+    * [ChronoBank](https://chronobank.slack.com/)
+    * [Humaniq](https://humaniq-co.slack.com/)
+    * [Exodus](https://exodusmovement.slack.com/)
+    * [Monaco Card](https://monaco-card.slack.com/)
+    * [Token Card](https://tokencard-team.slack.com/)
+    
 ## Videos
 
 ## Monitoring
