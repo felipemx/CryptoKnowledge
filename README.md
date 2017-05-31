@@ -48,6 +48,8 @@ A simple project to store useful links for whose want to get more information ab
 * Websites
     * [Coin Market Cap](http://coinmarketcap.com/)
     > Website with a large list of cryptocurrencies with market cap, price, % change in last 24hrs and much more.
+    * [Watch Coins](https://watchcoins.net/)
+    > Brazilian platform focused on monitor realtime the variations on Bitcoin, Litecoin, Ethereum and other cryptocurrencies.
 * Apps
     * Android
         * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
