@@ -27,6 +27,8 @@ A simple project to store useful links for whose want to get more information ab
 
 ## Social Media
 * Twitter
+    * [Monero](https://twitter.com/monerocurrency)
+    * [PIVX](https://twitter.com/_pivx)
 * Slack
 
 ## Videos
@@ -37,7 +39,12 @@ A simple project to store useful links for whose want to get more information ab
     > Website with a large list of cryptocurrencies with market cap, price, % change in last 24hrs and much more.
 * Apps
     * Android
+        * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
+        * [Monero Status](https://play.google.com/store/apps/details?id=tr.monerostatus)
     * iOS
     * Win/Mac/Linux
         * [Freeter](https://freeter.io/dashboard-examples/trading)
         > App multiplatform where you can configure a dashboard to monitor the situation of the cryptocurrencies.
+
+## News
+* [BTCManager](https://btcmanager.com/)
