@@ -2,6 +2,7 @@
 A simple project to store useful links for whose want to get more information about Cryptocurrencies.
 
 <!-- toc -->
+* [Banks](banks)
 * [Cards](#cards)
 * [Exchanges](#exchanges)
 * [Wallets](#wallets)
@@ -12,6 +13,8 @@ A simple project to store useful links for whose want to get more information ab
 <!-- toc stop -->
 
 ## Banks
+* [Humaniq](https://humaniq.co/)
+* [Xapo](https://xapo.com/)
 
 ## Cards
 * Debit Cards
@@ -25,7 +28,6 @@ A simple project to store useful links for whose want to get more information ab
 
 ## Wallets
 * Virtual Wallets
-    * [Xapo](https://xapo.com/)
 * Hardware Wallets
     * Wallets
     * Physical Money
@@ -68,3 +70,4 @@ A simple project to store useful links for whose want to get more information ab
 ## News
 * [BTCManager](https://btcmanager.com/)
 * [99 Bitcoins](https://99bitcoins.com/)
+* [Hunaniq - Medium](https://blog.humaniq.co/)
