@@ -25,6 +25,10 @@ A simple project to store useful links for whose want to get more information ab
     * [Monaco](https://mona.co/)
 
 ## Exchanges
+    * [FoxBit](https://foxbit.com.br/)
+    * [Kraken](https://www.kraken.com/)
+    * [Bittrex](https://bittrex.com/)
+    * [Poloniex](https://poloniex.com/)
 
 ## Wallets
 * Virtual Wallets
