@@ -32,6 +32,7 @@ A simple project to store useful links for whose want to get more information ab
 
 ## Wallets
 * Virtual Wallets
+    * [Exodus](https://www.exodus.io/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
@@ -44,6 +45,7 @@ A simple project to store useful links for whose want to get more information ab
 * Twitter
     * [Monero](https://twitter.com/monerocurrency)
     * [PIVX](https://twitter.com/_pivx)
+    * [Exodus](https://twitter.com/exodus_io/)
 * Slack
     * [ChronoBank](https://chronobank.slack.com/)
     * [Humaniq](https://humaniq-co.slack.com/)
