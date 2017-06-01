@@ -52,6 +52,7 @@ A simple project to store useful links for whose want to get more information ab
     * [Exodus](https://exodusmovement.slack.com/)
     * [Monaco Card](https://monaco-card.slack.com/)
     * [Token Card](https://tokencard-team.slack.com/)
+    * [Bitcoin Core](https://bitcoincore.slack.com/)
     
 ## Videos
 * English
