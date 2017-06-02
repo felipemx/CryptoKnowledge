@@ -43,16 +43,23 @@ A simple project to store useful links for whose want to get more information ab
 
 ## Social Media
 * Twitter
-    * [Monero](https://twitter.com/monerocurrency)
-    * [PIVX](https://twitter.com/_pivx)
-    * [Exodus](https://twitter.com/exodus_io/)
+    * Banks & Wallets
+        * [Exodus](https://twitter.com/exodus_io/)
+    * Coins
+        * [Monero](https://twitter.com/monerocurrency)
+        * [PIVX](https://twitter.com/_pivx)
+        * [BAT - Basic Attention Token](https://twitter.com/attentiontoken)
 * Slack
-    * [ChronoBank](https://chronobank.slack.com/)
-    * [Humaniq](https://humaniq-co.slack.com/)
-    * [Exodus](https://exodusmovement.slack.com/)
-    * [Monaco Card](https://monaco-card.slack.com/)
-    * [Token Card](https://tokencard-team.slack.com/)
-    * [Bitcoin Core](https://bitcoincore.slack.com/)
+    * Banks & Wallets
+        * [ChronoBank](https://chronobank.slack.com/)
+        * [Humaniq](https://humaniq-co.slack.com/)
+        * [Exodus](https://exodusmovement.slack.com/)
+    * Cards
+        * [Monaco Card](https://monaco-card.slack.com/)
+    * Coins
+        * [Token Card](https://tokencard-team.slack.com/)
+        * [Bitcoin Core](https://bitcoincore.slack.com/)
+        * [BAT - Basic Attention Token](http://slack.basicattentiontoken.org/)
     
 ## Videos
 * English
