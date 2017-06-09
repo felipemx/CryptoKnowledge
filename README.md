@@ -21,6 +21,7 @@ A simple project to store useful links for whose want to get more information ab
     * [Xapo](https://xapo.com/card/)
     * [Token Card](https://tokencard.io/)
     * [Wirex](https://wirexapp.com/)
+    * [Uquid Card](https://uquid.com/)
 * Credit Cards
     * [Monaco](https://mona.co/)
 
@@ -45,6 +46,7 @@ A simple project to store useful links for whose want to get more information ab
 * Twitter
     * Banks & Wallets
         * [Exodus](https://twitter.com/exodus_io/)
+        * [Uquid Card](https://twitter.com/uquidcard)
     * Coins
         * [Monero](https://twitter.com/monerocurrency)
         * [PIVX](https://twitter.com/_pivx)
