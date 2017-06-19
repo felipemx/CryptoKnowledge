@@ -34,6 +34,7 @@ A simple project to store useful links for whose want to get more information ab
 ## Wallets
 * Virtual Wallets
     * [Exodus](https://www.exodus.io/)
+    * [Coinomi Wallet](https://coinomi.com/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
@@ -47,6 +48,7 @@ A simple project to store useful links for whose want to get more information ab
     * Banks & Wallets
         * [Exodus](https://twitter.com/exodus_io/)
         * [Uquid Card](https://twitter.com/uquidcard)
+        * [Coinomi Wallet](https://twitter.com/coinomiwallet)
     * Coins
         * [Monero](https://twitter.com/monerocurrency)
         * [PIVX](https://twitter.com/_pivx)
