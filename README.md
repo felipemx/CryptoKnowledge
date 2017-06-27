@@ -230,6 +230,8 @@ A simple project to store useful links for whose want to get more information ab
     > Website with a large list of cryptocurrencies with market cap, price, % change in last 24hrs and much more.
     * [WatchCoins](https://watchcoins.net?lang=en-us)
     > Brazilian platform focused on monitor realtime the oscilations on Bitcoin, Litecoin, Ethereum and others altcoins.
+    * [Cryptowatch](https://cryptowat.ch/)
+    > Website with the most popular cryptocurrencies, their graph and most popular exchanges.
 * Apps
     * Android
         * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
