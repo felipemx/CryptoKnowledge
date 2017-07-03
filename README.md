@@ -203,6 +203,7 @@ A simple project to store useful links for whose want to get more information ab
         * [Monero](https://twitter.com/monerocurrency)
         * [PIVX](https://twitter.com/_pivx)
         * [BAT - Basic Attention Token](https://twitter.com/attentiontoken)
+        * [EOS](https://twitter.com/EOS_io)
 * Slack
     * Banks & Wallets
         * [ChronoBank](https://chronobank.slack.com/)
@@ -214,6 +215,7 @@ A simple project to store useful links for whose want to get more information ab
         * [Token Card](https://tokencard-team.slack.com/)
         * [Bitcoin Core](https://bitcoincore.slack.com/)
         * [BAT - Basic Attention Token](http://slack.basicattentiontoken.org/)
+        * [EOS](http://slack.eos.io/)
     
 ## Videos
 * English
