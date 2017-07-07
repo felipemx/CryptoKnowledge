@@ -185,6 +185,7 @@ A simple project to store useful links for whose want to get more information ab
 * Virtual Wallets
     * [Exodus](https://www.exodus.io/)
     * [Coinomi Wallet](https://coinomi.com/)
+    * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
@@ -199,6 +200,7 @@ A simple project to store useful links for whose want to get more information ab
         * [Exodus](https://twitter.com/exodus_io/)
         * [Uquid Card](https://twitter.com/uquidcard)
         * [Coinomi Wallet](https://twitter.com/coinomiwallet)
+        * [MyEtherWallet](https://twitter.com/myetherwallet/)
     * Coins
         * [Monero](https://twitter.com/monerocurrency)
         * [PIVX](https://twitter.com/_pivx)
