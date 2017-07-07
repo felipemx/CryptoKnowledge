@@ -185,6 +185,7 @@ A simple project to store useful links for whose want to get more information ab
 * Virtual Wallets
     * [Exodus](https://www.exodus.io/)
     * [Coinomi Wallet](https://coinomi.com/)
+    * [MyEtherWallet](https://www.myetherwallet.com/)
     * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
 * Hardware Wallets
     * Wallets
