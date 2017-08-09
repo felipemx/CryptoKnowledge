@@ -187,6 +187,7 @@ A simple project to store useful links for whose want to get more information ab
     * [Coinomi Wallet](https://coinomi.com/)
     * [MyEtherWallet](https://www.myetherwallet.com/)
     * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
+    * [GreenAddress](https://greenaddress.it/en/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
