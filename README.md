@@ -4,6 +4,7 @@ A simple project to store useful links for whose want to get more information ab
 <!-- toc -->
 * [Banks](banks)
 * [Cards](#cards)
+* [Lending](#lending)
 * [Exchanges](#exchanges)
 * [Wallets](#wallets)
 * [Social Media](#social-media)
@@ -24,6 +25,9 @@ A simple project to store useful links for whose want to get more information ab
     * [Uquid Card](https://uquid.com/)
 * Credit Cards
     * [Monaco](https://mona.co/)
+
+## Lending
+* [SALT Lending](https://saltlending.com/)
 
 ## Exchanges
 * [FoxBit](https://foxbit.com.br/)
