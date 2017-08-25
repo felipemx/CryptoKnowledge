@@ -224,6 +224,8 @@ A simple project to store useful links for whose want to get more information ab
         * [Bitcoin Core](https://bitcoincore.slack.com/)
         * [BAT - Basic Attention Token](http://slack.basicattentiontoken.org/)
         * [EOS](http://slack.eos.io/)
+    * Resources
+        * [Cryptominded](http://community.cryptominded.com/)
     
 ## Videos
 * English
