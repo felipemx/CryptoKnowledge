@@ -28,6 +28,7 @@ A simple project to store useful links for whose want to get more information ab
 
 ## Lending
 * [SALT Lending](https://saltlending.com/)
+* [BitBond](https://www.bitbond.com/)
 
 ## Exchanges
 * [FoxBit](https://foxbit.com.br/)
