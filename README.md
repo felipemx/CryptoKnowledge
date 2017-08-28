@@ -6,7 +6,6 @@ A simple project to store useful links for whose want to get more information ab
 * [Money Transfer](#money-transfer)
 * [Cards](#cards)
 * [Lending](#lending)
-* [Exchanges](#exchanges)
 * [Wallets](#wallets)
 * [Social Media](#social-media)
 * [Videos](#videos)
@@ -15,6 +14,9 @@ A simple project to store useful links for whose want to get more information ab
 * [Forums](#forums)
 * [Jobs](#jobs)
 * [Development](#development)
+* [Tools](#tools)
+* [Podcasts](#podcasts)
+* [Exchanges](#exchanges)
 <!-- toc stop -->
 
 ## Banks
@@ -36,6 +38,166 @@ A simple project to store useful links for whose want to get more information ab
 ## Lending
 * [SALT Lending](https://saltlending.com/)
 * [BitBond](https://www.bitbond.com/)
+
+## Wallets
+* Virtual Wallets
+    * [Exodus](https://www.exodus.io/)
+    * [Coinomi Wallet](https://coinomi.com/)
+    * [MyEtherWallet](https://www.myetherwallet.com/)
+    * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
+    * [GreenAddress](https://greenaddress.it/en/)
+    * [AltPocket](https://altpocket.io/)
+    * [CoinsBank](https://coinsbank.com/)
+    * [BitGo Web Wallet](https://www.bitgo.com/wallet)
+    * [Luno](https://www.luno.com/)
+    * [Jaxx](https://jaxx.io/)
+* Hardware Wallets
+    * Wallets
+        * [KeepKey](https://www.keepkey.com/)
+        * [Ledger](https://www.ledgerwallet.com/)
+        * [Trezor](https://trezor.io/)
+    * Physical Money
+        * [Open Dime](https://opendime.com/)
+
+## Social Media
+* Twitter
+    * Banks & Wallets
+        * [Exodus](https://twitter.com/exodus_io/)
+        * [Uquid Card](https://twitter.com/uquidcard)
+        * [Coinomi Wallet](https://twitter.com/coinomiwallet)
+        * [MyEtherWallet](https://twitter.com/myetherwallet/)
+    * Coins
+        * [Monero](https://twitter.com/monerocurrency)
+        * [PIVX](https://twitter.com/_pivx)
+        * [BAT - Basic Attention Token](https://twitter.com/attentiontoken)
+        * [EOS](https://twitter.com/EOS_io)
+* Slack
+    * Banks & Wallets
+        * [ChronoBank](https://chronobank.slack.com/)
+        * [Humaniq](https://humaniq-co.slack.com/)
+        * [Exodus](https://exodusmovement.slack.com/)
+    * Cards
+        * [Monaco Card](https://monaco-card.slack.com/)
+    * Coins
+        * [Token Card](https://tokencard-team.slack.com/)
+        * [Bitcoin Core](https://bitcoincore.slack.com/)
+        * [BAT - Basic Attention Token](http://slack.basicattentiontoken.org/)
+        * [EOS](http://slack.eos.io/)
+    * Resources
+        * [Cryptominded](http://community.cryptominded.com/)
+        * [EthList](https://github.com/Scanate/EthList)
+    * Community
+        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
+    * Community
+        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
+* Jobs
+    * [21co](https://slack.21.co/)
+    
+## Videos
+* English
+    * [Aaron Ag](https://www.youtube.com/channel/UCZRS64ykndlry0RgkDwsgCQ/videos)
+    * [Tommy World Power](https://www.youtube.com/user/Tommy77724/videos)
+    * [Monaco Card](https://www.youtube.com/channel/UCOMprzxakZOqmY23LYIawmg/videos)
+    * [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
+    * [Bitcoin for Beginners](https://www.youtube.com/channel/UCi7egjf0JDHuhznWugXq4hA/videos)
+    * [Andreas Antonopoulos](https://www.youtube.com/user/aantonop/videos)
+    * [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw/videos)
+    * [Epicenter](https://www.youtube.com/user/epicenterbtc/videos)
+    * [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/videos)
+    * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw/videos)
+    * [Crypt0](https://www.youtube.com/user/obham001/videos)
+    * [We Use Coins](https://www.youtube.com/user/weusecoins/videos)
+    * [Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/videos)
+    * [Epicenter](https://www.youtube.com/user/epicenterbtc/videos)
+    * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork/videos)
+* Portuguese
+    * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
+    * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
+
+## Monitoring
+* Websites
+    * [Coin Market Cap](http://coinmarketcap.com/)
+    > Website with a large list of cryptocurrencies with market cap, price, % change in last 24hrs and much more.
+    * [WatchCoins](https://watchcoins.net?lang=en-us)
+    > Brazilian platform focused on monitor realtime the oscilations on Bitcoin, Litecoin, Ethereum and others altcoins.
+    * [Cryptowatch](https://cryptowat.ch/)
+    > Website with the most popular cryptocurrencies, their graph and most popular exchanges.
+    * [CoinCap](http://coincap.io/)
+    > The price tracker by ShapeShift.
+    * [CryptoVue](https://www.cryptovue.com/)
+    > Real-time dashboard that displays the top 10 cryptocurrencies based on currency price, market capitalization and overall circulating supply. It has also a Chrome extension.
+    * [CryptAlert](https://cryptalert.com/)
+    > Create alerts and be informed on each variation of your favorite cryptocurrencies. It has also a Chrome extension.
+* Apps
+    * Android
+        * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
+        * [Monero Status](https://play.google.com/store/apps/details?id=tr.monerostatus)
+        * [Lawnmower](https://lawnmower.io/)
+        * [CoinCap](http://coincap.io/)
+    * iOS
+        * [Coindex App](https://coindexapp.com/)
+        * [Lawnmower](https://lawnmower.io/)
+        * [CoinCap](http://coincap.io/)
+    * Win/Mac/Linux
+        * [Freeter](https://freeter.io/dashboard-examples/trading)
+        > App multiplatform where you can configure a dashboard to monitor the situation of the cryptocurrencies.
+
+## News
+* [BTCManager](https://btcmanager.com/)
+* [99 Bitcoins](https://99bitcoins.com/)
+* [Humaniq - Medium](https://blog.humaniq.co/)
+
+## Forums
+* [Bitcoin Talk](https://bitcointalk.org/)
+* Reddit
+    * [BTC](https://www.reddit.com/r/btc/)
+    * [Bitcoin](https://www.reddit.com/r/Bitcoin/)
+    * [Ethereum](https://www.reddit.com/r/ethereum/)
+    * [ETHTrader](https://www.reddit.com/r/ethtrader/)
+    * [EthDev](https://www.reddit.com/r/ethdev/)
+    * [Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/)
+
+## Jobs
+* [Freelancer - Bitcoin](https://www.freelancer.com/jobs/bitcoin/)
+* [Coinality](https://coinality.com/)
+* [Cryptogrind](https://www.cryptogrind.com/)
+* [Blockchain Dev Jobs](https://blockchaindevjobs.com/)
+* [Ethlance](https://ethlance.com/)
+* [EthDev](https://www.reddit.com/r/ethdev/)
+* [21co](https://21.co/)
+
+## Development
+* [CryptoBadges.io](https://en.cryptobadges.io/)
+> Generates badges/QR-Codes for crypto-donations.
+* [PeerName](https://peername.com/)
+> Domain registration blockchain-based.
+* [Stampery](https://stampery.com/)
+> Generates immutable and independently verifiable records of everything that is important to your business.
+* [BlockStack](https://blockstack.org/)
+> A new decentralized internet where users own their data and apps run locally.
+* Solidity
+    * [Solidity](https://solidity.readthedocs.io/en/develop/)
+    > Documentation of Solidity language.
+    * [OpenZeppelin](https://openzeppelin.org/)
+    > Open framework of reusable and secure smart contracts in the Solidity language.
+* Ethereum network
+    * [Truffle Framework for Ethereum](http://truffleframework.com/)
+    > The most popular development framework for Ethereum.
+    * [Ethereum Ðapp Development](http://decypher.tv/series/ethereum-development)
+    > Screencast series outlining everything you need to know to get started building Ðapps in Ethereum.
+
+## Tools
+* [BitCoin Tax](https://bitcoin.tax/)
+> If you are a tax professional, CPA, or accountant firm, you can use BitcoinTaxes to import and calculate your client capital gains as well as income from mining or Bitcoin payment processors.
+
+## Podcasts
+* [Bitcoin Uncensored](https://soundcloud.com/bitcoinuncensored)
+* [The ICO Alert Podcast](https://www.icoalert.com/podcast/)
+* [Neocash Radio](http://neocashradio.com/)
+* [The Bad Crypto Podcast](http://badcryptopodcast.com/)
+* [Unchained - Forbes](https://www.forbes.com/podcasts/unchained/)
+* [The Ether Review](https://etherreview.info/tagged/podcast)
+* [Let's Talk Bitcoin](https://letstalkbitcoin.com/blog/category/episodes)
 
 ## Exchanges
 * [FoxBit](https://foxbit.com.br/)
@@ -193,137 +355,3 @@ A simple project to store useful links for whose want to get more information ab
 * [BFExchange](http://bfexchange.net/)
 * [Rippex](https://rippex.net/)
 * [BitPanda](https://www.bitpanda.com/)
-
-## Wallets
-* Virtual Wallets
-    * [Exodus](https://www.exodus.io/)
-    * [Coinomi Wallet](https://coinomi.com/)
-    * [MyEtherWallet](https://www.myetherwallet.com/)
-    * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
-    * [GreenAddress](https://greenaddress.it/en/)
-    * [AltPocket](https://altpocket.io/)
-    * [CoinsBank](https://coinsbank.com/)
-    * [BitGo Web Wallet](https://www.bitgo.com/wallet)
-    * [Luno](https://www.luno.com/)
-    * [Jaxx](https://jaxx.io/)
-* Hardware Wallets
-    * Wallets
-        * [KeepKey](https://www.keepkey.com/)
-        * [Ledger](https://www.ledgerwallet.com/)
-        * [Trezor](https://trezor.io/)
-    * Physical Money
-        * [Open Dime](https://opendime.com/)
-
-## Social Media
-* Twitter
-    * Banks & Wallets
-        * [Exodus](https://twitter.com/exodus_io/)
-        * [Uquid Card](https://twitter.com/uquidcard)
-        * [Coinomi Wallet](https://twitter.com/coinomiwallet)
-        * [MyEtherWallet](https://twitter.com/myetherwallet/)
-    * Coins
-        * [Monero](https://twitter.com/monerocurrency)
-        * [PIVX](https://twitter.com/_pivx)
-        * [BAT - Basic Attention Token](https://twitter.com/attentiontoken)
-        * [EOS](https://twitter.com/EOS_io)
-* Slack
-    * Banks & Wallets
-        * [ChronoBank](https://chronobank.slack.com/)
-        * [Humaniq](https://humaniq-co.slack.com/)
-        * [Exodus](https://exodusmovement.slack.com/)
-    * Cards
-        * [Monaco Card](https://monaco-card.slack.com/)
-    * Coins
-        * [Token Card](https://tokencard-team.slack.com/)
-        * [Bitcoin Core](https://bitcoincore.slack.com/)
-        * [BAT - Basic Attention Token](http://slack.basicattentiontoken.org/)
-        * [EOS](http://slack.eos.io/)
-    * Resources
-        * [Cryptominded](http://community.cryptominded.com/)
-        * [EthList](https://github.com/Scanate/EthList)
-    * Community
-        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
-    * Community
-        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
-* Jobs
-    * [21co](https://slack.21.co/)
-    
-## Videos
-* English
-    * [Aaron Ag](https://www.youtube.com/channel/UCZRS64ykndlry0RgkDwsgCQ/videos)
-    * [Tommy World Power](https://www.youtube.com/user/Tommy77724/videos)
-    * [Monaco Card](https://www.youtube.com/channel/UCOMprzxakZOqmY23LYIawmg/videos)
-    * [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
-    * [Bitcoin for Beginners](https://www.youtube.com/channel/UCi7egjf0JDHuhznWugXq4hA/videos)
-    * [Andreas Antonopoulos](https://www.youtube.com/user/aantonop/videos)
-    * [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw/videos)
-    * [Epicenter](https://www.youtube.com/user/epicenterbtc/videos)
-    * [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/videos)
-    * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw/videos)
-    * [Crypt0](https://www.youtube.com/user/obham001/videos)
-    * [We Use Coins](https://www.youtube.com/user/weusecoins/videos)
-    * [Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/videos)
-* Portuguese
-    * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
-    * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
-
-## Monitoring
-* Websites
-    * [Coin Market Cap](http://coinmarketcap.com/)
-    > Website with a large list of cryptocurrencies with market cap, price, % change in last 24hrs and much more.
-    * [WatchCoins](https://watchcoins.net?lang=en-us)
-    > Brazilian platform focused on monitor realtime the oscilations on Bitcoin, Litecoin, Ethereum and others altcoins.
-    * [Cryptowatch](https://cryptowat.ch/)
-    > Website with the most popular cryptocurrencies, their graph and most popular exchanges.
-* Apps
-    * Android
-        * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
-        * [Monero Status](https://play.google.com/store/apps/details?id=tr.monerostatus)
-    * iOS
-    * Win/Mac/Linux
-        * [Freeter](https://freeter.io/dashboard-examples/trading)
-        > App multiplatform where you can configure a dashboard to monitor the situation of the cryptocurrencies.
-
-## News
-* [BTCManager](https://btcmanager.com/)
-* [99 Bitcoins](https://99bitcoins.com/)
-* [Hunaniq - Medium](https://blog.humaniq.co/)
-
-## Forums
-* [Bitcoin Talk](https://bitcointalk.org/)
-* Reddit
-    * [BTC](https://www.reddit.com/r/btc/)
-    * [Bitcoin](https://www.reddit.com/r/Bitcoin/)
-    * [Ethereum](https://www.reddit.com/r/ethereum/)
-    * [ETHTrader](https://www.reddit.com/r/ethtrader/)
-    * [EthDev](https://www.reddit.com/r/ethdev/)
-    * [Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/)
-
-## Jobs
-* [Freelancer - Bitcoin](https://www.freelancer.com/jobs/bitcoin/)
-* [Coinality](https://coinality.com/)
-* [Cryptogrind](https://www.cryptogrind.com/)
-* [Blockchain Dev Jobs](https://blockchaindevjobs.com/)
-* [Ethlance](https://ethlance.com/)
-* [EthDev](https://www.reddit.com/r/ethdev/)
-* [21co](https://21.co/)
-
-## Development
-* [CryptoBadges.io](https://en.cryptobadges.io/)
-> Generates badges/QR-Codes for crypto-donations.
-* [PeerName](https://peername.com/)
-> Domain registration blockchain-based.
-* [Stampery](https://stampery.com/)
-> Generates immutable and independently verifiable records of everything that is important to your business.
-* [BlockStack](https://blockstack.org/)
-> A new decentralized internet where users own their data and apps run locally.
-* Solidity
-    * [Solidity](https://solidity.readthedocs.io/en/develop/)
-    > Documentation of Solidity language.
-    * [OpenZeppelin](https://openzeppelin.org/)
-    > Open framework of reusable and secure smart contracts in the Solidity language.
-* Ethereum network
-    * [Truffle Framework for Ethereum](http://truffleframework.com/)
-    > The most popular development framework for Ethereum.
-    * [Ethereum Ðapp Development](http://decypher.tv/series/ethereum-development)
-    > Screencast series outlining everything you need to know to get started building Ðapps in Ethereum.
