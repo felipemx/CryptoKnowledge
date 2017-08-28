@@ -12,6 +12,7 @@ A simple project to store useful links for whose want to get more information ab
 * [Monitoring](#monitoring)
 * [News](#news)
 * [Forums](#forums)
+* [Jobs](#jobs)
 <!-- toc stop -->
 
 ## Banks
@@ -279,3 +280,11 @@ A simple project to store useful links for whose want to get more information ab
     * [Ethereum](https://www.reddit.com/r/ethereum/)
     * [ETHTrader](https://www.reddit.com/r/ethtrader/)
     * [EthDev](https://www.reddit.com/r/ethdev/)
+    * [Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/)
+
+## Jobs
+* [Freelancer - Bitcoin](https://www.freelancer.com/jobs/bitcoin/)
+* [Coinality](https://coinality.com/)
+* [Cryptogrind](https://www.cryptogrind.com/)
+* [Blockchain Dev Jobs](https://blockchaindevjobs.com/)
+* [Ethlance](https://ethlance.com/)
