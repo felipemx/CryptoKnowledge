@@ -13,6 +13,7 @@ A simple project to store useful links for whose want to get more information ab
 * [News](#news)
 * [Forums](#forums)
 * [Jobs](#jobs)
+* [Development](#development)
 <!-- toc stop -->
 
 ## Banks
@@ -230,8 +231,11 @@ A simple project to store useful links for whose want to get more information ab
         * [EOS](http://slack.eos.io/)
     * Resources
         * [Cryptominded](http://community.cryptominded.com/)
+        * [EthList](https://github.com/Scanate/EthList)
     * Community
         * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
+* Gitter
+    * [Casper Scaling and protocols](https://gitter.im/ethereum/casper-scaling-and-protocol-economics)
     
 ## Videos
 * English
@@ -288,3 +292,24 @@ A simple project to store useful links for whose want to get more information ab
 * [Cryptogrind](https://www.cryptogrind.com/)
 * [Blockchain Dev Jobs](https://blockchaindevjobs.com/)
 * [Ethlance](https://ethlance.com/)
+* [EthDev](https://www.reddit.com/r/ethdev/)
+
+## Development
+* [CryptoBadges.io](https://en.cryptobadges.io/)
+> Generates badges/QR-Codes for crypto-donations.
+* [PeerName](https://peername.com/)
+> Domain registration blockchain-based.
+* [Stampery](https://stampery.com/)
+> Generates immutable and independently verifiable records of everything that is important to your business.
+* [BlockStack](https://blockstack.org/)
+> A new decentralized internet where users own their data and apps run locally.
+* Solidity
+    * [Solidity](https://solidity.readthedocs.io/en/develop/)
+    > Documentation of Solidity language.
+    * [OpenZeppelin](https://openzeppelin.org/)
+    > Open framework of reusable and secure smart contracts in the Solidity language.
+* Ethereum network
+    * [Truffle Framework for Ethereum](http://truffleframework.com/)
+    > The most popular development framework for Ethereum.
+    * [Ethereum Ðapp Development](http://decypher.tv/series/ethereum-development)
+    > Screencast series outlining everything you need to know to get started building Ðapps in Ethereum.
