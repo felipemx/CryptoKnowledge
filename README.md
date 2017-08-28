@@ -192,6 +192,7 @@ A simple project to store useful links for whose want to get more information ab
 * [P2PB2B](https://p2pb2b.cn/)
 * [BFExchange](http://bfexchange.net/)
 * [Rippex](https://rippex.net/)
+* [BitPanda](https://www.bitpanda.com/)
 
 ## Wallets
 * Virtual Wallets
@@ -201,6 +202,10 @@ A simple project to store useful links for whose want to get more information ab
     * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
     * [GreenAddress](https://greenaddress.it/en/)
     * [AltPocket](https://altpocket.io/)
+    * [CoinsBank](https://coinsbank.com/)
+    * [BitGo Web Wallet](https://www.bitgo.com/wallet)
+    * [Luno](https://www.luno.com/)
+    * [Jaxx](https://jaxx.io/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
