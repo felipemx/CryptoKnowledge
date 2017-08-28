@@ -3,7 +3,7 @@ A simple project to store useful links for whose want to get more information ab
 
 <!-- toc -->
 * [Banks](banks)
-* [Money Transfer](#noney-transfer)
+* [Money Transfer](#money-transfer)
 * [Cards](#cards)
 * [Lending](#lending)
 * [Exchanges](#exchanges)
