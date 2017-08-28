@@ -250,6 +250,8 @@ A simple project to store useful links for whose want to get more information ab
     * [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/videos)
     * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw/videos)
     * [Crypt0](https://www.youtube.com/user/obham001/videos)
+    * [We Use Coins](https://www.youtube.com/user/weusecoins/videos)
+    * [Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/videos)
 * Portuguese
     * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
     * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
