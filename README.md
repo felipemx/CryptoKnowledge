@@ -11,6 +11,7 @@ A simple project to store useful links for whose want to get more information ab
 * [Videos](#videos)
 * [Monitoring](#monitoring)
 * [News](#news)
+* [Forums](#forums)
 <!-- toc stop -->
 
 ## Banks
@@ -193,6 +194,7 @@ A simple project to store useful links for whose want to get more information ab
     * [MyEtherWallet](https://www.myetherwallet.com/)
     * [MyEtherWallet CX](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en)
     * [GreenAddress](https://greenaddress.it/en/)
+    * [AltPocket](https://altpocket.io/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
@@ -227,6 +229,8 @@ A simple project to store useful links for whose want to get more information ab
         * [EOS](http://slack.eos.io/)
     * Resources
         * [Cryptominded](http://community.cryptominded.com/)
+    * Community
+        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
     
 ## Videos
 * English
@@ -266,3 +270,12 @@ A simple project to store useful links for whose want to get more information ab
 * [BTCManager](https://btcmanager.com/)
 * [99 Bitcoins](https://99bitcoins.com/)
 * [Hunaniq - Medium](https://blog.humaniq.co/)
+
+## Forums
+* [Bitcoin Talk](https://bitcointalk.org/)
+* Reddit
+    * [BTC](https://www.reddit.com/r/btc/)
+    * [Bitcoin](https://www.reddit.com/r/Bitcoin/)
+    * [Ethereum](https://www.reddit.com/r/ethereum/)
+    * [ETHTrader](https://www.reddit.com/r/ethtrader/)
+    * [EthDev](https://www.reddit.com/r/ethdev/)
