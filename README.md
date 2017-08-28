@@ -83,6 +83,10 @@ A simple project to store useful links for whose want to get more information ab
         * [Bitcoin Core](https://bitcoincore.slack.com/)
         * [BAT - Basic Attention Token](http://slack.basicattentiontoken.org/)
         * [EOS](http://slack.eos.io/)
+        * [Aragon](https://aragon.chat/)
+        * [Augur](http://invite.augur.net/)
+        * [FirstBlood](https://firstbloodio.slack.com/)
+        * [Gnosis](https://slack.gnosis.pm/)
     * Resources
         * [Cryptominded](http://community.cryptominded.com/)
         * [EthList](https://github.com/Scanate/EthList)
@@ -90,8 +94,9 @@ A simple project to store useful links for whose want to get more information ab
         * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
     * Community
         * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
-* Jobs
-    * [21co](https://slack.21.co/)
+    * Jobs
+        * [21co](https://slack.21.co/)
+        * [Ethlance](https://ethlance.slack.com/)
     
 ## Videos
 * English
