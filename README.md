@@ -87,11 +87,12 @@ A simple project to store useful links for whose want to get more information ab
         * [Augur](http://invite.augur.net/)
         * [FirstBlood](https://firstbloodio.slack.com/)
         * [Gnosis](https://slack.gnosis.pm/)
+        * [Golem](http://golemproject.org:3000/)
+        * [ICONOMI](https://iconominet.herokuapp.com/)
+        * [Matchpool](https://matchpool.slack.com/)
     * Resources
         * [Cryptominded](http://community.cryptominded.com/)
         * [EthList](https://github.com/Scanate/EthList)
-    * Community
-        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
     * Community
         * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
     * Jobs
