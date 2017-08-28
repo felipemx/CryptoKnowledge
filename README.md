@@ -3,6 +3,7 @@ A simple project to store useful links for whose want to get more information ab
 
 <!-- toc -->
 * [Banks](banks)
+* [Money Transfer](#noney-transfer)
 * [Cards](#cards)
 * [Lending](#lending)
 * [Exchanges](#exchanges)
@@ -19,6 +20,9 @@ A simple project to store useful links for whose want to get more information ab
 ## Banks
 * [Humaniq](https://humaniq.co/)
 * [Xapo](https://xapo.com/)
+
+## Money Transfer
+* [BitWage](http://bitwage.com/)
 
 ## Cards
 * Debit Cards
@@ -234,8 +238,10 @@ A simple project to store useful links for whose want to get more information ab
         * [EthList](https://github.com/Scanate/EthList)
     * Community
         * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
-* Gitter
-    * [Casper Scaling and protocols](https://gitter.im/ethereum/casper-scaling-and-protocol-economics)
+    * Community
+        * [Crypto Aquarium](https://cryptoaquarium.slack.com/)
+* Jobs
+    * [21co](https://slack.21.co/)
     
 ## Videos
 * English
@@ -295,6 +301,7 @@ A simple project to store useful links for whose want to get more information ab
 * [Blockchain Dev Jobs](https://blockchaindevjobs.com/)
 * [Ethlance](https://ethlance.com/)
 * [EthDev](https://www.reddit.com/r/ethdev/)
+* [21co](https://21.co/)
 
 ## Development
 * [CryptoBadges.io](https://en.cryptobadges.io/)
