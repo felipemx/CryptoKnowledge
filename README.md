@@ -134,16 +134,20 @@ A simple project to store useful links for whose want to get more information ab
     > Real-time dashboard that displays the top 10 cryptocurrencies based on currency price, market capitalization and overall circulating supply. It has also a Chrome extension.
     * [CryptAlert](https://cryptalert.com/)
     > Create alerts and be informed on each variation of your favorite cryptocurrencies. It has also a Chrome extension.
+    * [CoinFYI](https://coin.fyi/)
+    > Manage your holdings efficiently, calculate how to rebalance your portfolio, follow upcoming ICO's and more.
 * Apps
     * Android
         * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
         * [Monero Status](https://play.google.com/store/apps/details?id=tr.monerostatus)
         * [Lawnmower](https://lawnmower.io/)
         * [CoinCap](http://coincap.io/)
+        * [Blockfolio](http://blockfolio.com/)
     * iOS
         * [Coindex App](https://coindexapp.com/)
         * [Lawnmower](https://lawnmower.io/)
         * [CoinCap](http://coincap.io/)
+        * [Blockfolio](http://blockfolio.com/)
     * Win/Mac/Linux
         * [Freeter](https://freeter.io/dashboard-examples/trading)
         > App multiplatform where you can configure a dashboard to monitor the situation of the cryptocurrencies.
@@ -162,6 +166,7 @@ A simple project to store useful links for whose want to get more information ab
     * [ETHTrader](https://www.reddit.com/r/ethtrader/)
     * [EthDev](https://www.reddit.com/r/ethdev/)
     * [Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/)
+    * [EtherMining](https://www.reddit.com/r/EtherMining/wiki/index)
 
 ## Jobs
 * [Freelancer - Bitcoin](https://www.freelancer.com/jobs/bitcoin/)
