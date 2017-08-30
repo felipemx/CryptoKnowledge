@@ -136,6 +136,8 @@ A simple project to store useful links for whose want to get more information ab
     > Create alerts and be informed on each variation of your favorite cryptocurrencies. It has also a Chrome extension.
     * [CoinFYI](https://coin.fyi/)
     > Manage your holdings efficiently, calculate how to rebalance your portfolio, follow upcoming ICO's and more.
+    * [Flippening Watch](http://blog.flippening.watch/)
+    > “The Flippening” refers to the possible future event when Ethereum overtakes Bitcoin to become the biggest, most valuable, and most important cryptocurrency.
 * Apps
     * Android
         * [Bitcoin Checked](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian)
@@ -156,6 +158,12 @@ A simple project to store useful links for whose want to get more information ab
 * [BTCManager](https://btcmanager.com/)
 * [99 Bitcoins](https://99bitcoins.com/)
 * [Humaniq - Medium](https://blog.humaniq.co/)
+* [Ethnews](https://www.ethnews.com/)
+* [Week in Ethereum](http://www.weekinethereum.com/)
+* [Coinspectator](https://coinspectator.com/)
+* [CoinTelegraph](https://cointelegraph.com/)
+* [Token Economy](https://tokeneconomy.co/)
+* [CryptoPanic](https://cryptopanic.com/)
 
 ## Forums
 * [Bitcoin Talk](https://bitcointalk.org/)
@@ -200,6 +208,10 @@ A simple project to store useful links for whose want to get more information ab
 ## Tools
 * [BitCoin Tax](https://bitcoin.tax/)
 > If you are a tax professional, CPA, or accountant firm, you can use BitcoinTaxes to import and calculate your client capital gains as well as income from mining or Bitcoin payment processors.
+* [CryptoCompare](https://www.cryptocompare.com/)
+> Interactive platform where you can discuss the latest Crypto trends and monitor all markets streaming in real time.
+* [Coinvision](http://www.coinvision.co/)
+> Facebook Messenger bot for Cryptocurrency alerts
 
 ## Podcasts
 * [Bitcoin Uncensored](https://soundcloud.com/bitcoinuncensored)
