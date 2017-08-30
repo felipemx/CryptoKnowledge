@@ -116,7 +116,7 @@ A simple project to store useful links for whose want to get more information ab
     * [Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/videos)
     * [Epicenter](https://www.youtube.com/user/epicenterbtc/videos)
     * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork/videos)
-* Portuguese
+* Brazilian Portuguese
     * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
     * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
 
@@ -164,6 +164,8 @@ A simple project to store useful links for whose want to get more information ab
 * [CoinTelegraph](https://cointelegraph.com/)
 * [Token Economy](https://tokeneconomy.co/)
 * [CryptoPanic](https://cryptopanic.com/)
+* Brazilian Portuguese
+    * [Criptomoeda.org](https://www.criptomoeda.org/)
 
 ## Forums
 * [Bitcoin Talk](https://bitcointalk.org/)
