@@ -51,6 +51,10 @@ A simple project to store useful links for whose want to get more information ab
     * [BitGo Web Wallet](https://www.bitgo.com/wallet)
     * [Luno](https://www.luno.com/)
     * [Jaxx](https://jaxx.io/)
+    * [Ethereum Mist](https://github.com/ethereum/mist)
+    * [MetaMask](https://metamask.io/)
+    * [Inzhoop](https://www.inzhoop.com/)
+    * [imToken](https://token.im/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
