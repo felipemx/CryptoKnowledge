@@ -55,11 +55,13 @@ A simple project to store useful links for whose want to get more information ab
     * [MetaMask](https://metamask.io/)
     * [Inzhoop](https://www.inzhoop.com/)
     * [imToken](https://token.im/)
+    * [MyMonero](https://mymonero.com/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
         * [Ledger](https://www.ledgerwallet.com/)
         * [Trezor](https://trezor.io/)
+        * [Taushet USB Monero Cold Wallet Generator](https://www.reddit.com/r/Monero/comments/5limu9/taushet_usb_monero_cold_wallet_generator_release/)
     * Physical Money
         * [Open Dime](https://opendime.com/)
 
