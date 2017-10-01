@@ -2,7 +2,7 @@
 A simple project to store useful links for whose want to get more information about Cryptocurrencies.
 
 <!-- toc -->
-* [Banks](banks)
+* [Banks](#banks)
 * [Money Transfer](#money-transfer)
 * [Cards](#cards)
 * [Lending](#lending)
@@ -22,6 +22,7 @@ A simple project to store useful links for whose want to get more information ab
 ## Banks
 * [Humaniq](https://humaniq.co/)
 * [Xapo](https://xapo.com/)
+* [BitoEx](https://www.bitoex.com/)
 
 ## Money Transfer
 * [BitWage](http://bitwage.com/)
@@ -69,6 +70,10 @@ A simple project to store useful links for whose want to get more information ab
     * [Armory Wallet](https://www.bitcoinarmory.com/)
     * [BitcoinKnots](https://bitcoinknots.org/)
     * [mSIGNA Ciphrex](https://ciphrex.com/products/)
+    * [Bitt](https://www.bitt.com/wallet)
+    * [Mobi](https://www.mobi.me/)
+    * [Copay](https://copay.io/)
+    * [StrongCoin](https://strongcoin.com/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
@@ -76,6 +81,8 @@ A simple project to store useful links for whose want to get more information ab
         * [Trezor](https://trezor.io/)
         * [Taushet USB Monero Cold Wallet Generator](https://www.reddit.com/r/Monero/comments/5limu9/taushet_usb_monero_cold_wallet_generator_release/)
         * [DigitalBitbox](https://digitalbitbox.com/)
+        * [Case](https://choosecase.com/)
+        * [CoolBitx](https://www.coolbitx.com/)
     * Physical Money
         * [Open Dime](https://opendime.com/)
 
