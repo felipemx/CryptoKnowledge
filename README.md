@@ -57,12 +57,25 @@ A simple project to store useful links for whose want to get more information ab
     * [Inzhoop](https://www.inzhoop.com/)
     * [imToken](https://token.im/)
     * [MyMonero](https://mymonero.com/)
+    * [Electrum](https://electrum.org/#home)
+    * [Coinapult](https://coinapult.com/)
+    * [Coin.Space](https://coin.space/)
+    * [Coinbase](https://www.coinbase.com/)
+    * [BTC.com](https://wallet.btc.com/#/setup/register)
+    * [AirBitz](https://airbitz.co/bitcoin-wallet/)
+    * [ArcBit](https://play.google.com/store/apps/details?id=com.arcbit.arcbit&hl=en)
+    * [Bither](https://bither.net/)
+    * [BreadApp](https://breadapp.com/)
+    * [Armory Wallet](https://www.bitcoinarmory.com/)
+    * [BitcoinKnots](https://bitcoinknots.org/)
+    * [mSIGNA Ciphrex](https://ciphrex.com/products/)
 * Hardware Wallets
     * Wallets
         * [KeepKey](https://www.keepkey.com/)
         * [Ledger](https://www.ledgerwallet.com/)
         * [Trezor](https://trezor.io/)
         * [Taushet USB Monero Cold Wallet Generator](https://www.reddit.com/r/Monero/comments/5limu9/taushet_usb_monero_cold_wallet_generator_release/)
+        * [DigitalBitbox](https://digitalbitbox.com/)
     * Physical Money
         * [Open Dime](https://opendime.com/)
 
