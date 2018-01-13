@@ -145,6 +145,7 @@ A simple project to store useful links for whose want to get more information ab
     * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork/videos)
     * [Crypto Tips](https://www.youtube.com/channel/UCavTvSwEoRABvnPtLg0e6LQ/videos)
     * [Decred](https://www.youtube.com/channel/UCJ2bYDaPYHpSmJPh_M5dNSg/videos)
+    * [Crypto & Blockchain Tutorials](https://www.youtube.com/channel/UC1y2yA6CTN_O866SkeNnfYg/videos)
 * Brazilian Portuguese
     * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
     * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
