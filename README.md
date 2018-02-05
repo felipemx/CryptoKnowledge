@@ -237,6 +237,8 @@ A simple project to store useful links for whose want to get more information ab
     > The most popular development framework for Ethereum.
     * [Ethereum Ðapp Development](http://decypher.tv/series/ethereum-development)
     > Screencast series outlining everything you need to know to get started building Ðapps in Ethereum.
+* [CryptoMiso](https://www.cryptomiso.com/)
+> Github commit history of 616 cryptocurrencies based on most popular repo
 
 ## Tools
 * [BitCoin Tax](https://bitcoin.tax/)
