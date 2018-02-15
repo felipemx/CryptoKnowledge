@@ -150,6 +150,7 @@ A simple project to store useful links for whose want to get more information ab
 * Brazilian Portuguese
     * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
     * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
+    * [OriginalMy](https://www.youtube.com/channel/UCsuCRvPo8qNcjMDT3h7qtKA/videos)
 
 ## Monitoring
 * Websites
