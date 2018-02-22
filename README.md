@@ -197,7 +197,8 @@ A simple project to store useful links for whose want to get more information ab
 * [Token Economy](https://tokeneconomy.co/)
 * [CryptoPanic](https://cryptopanic.com/)
 * Brazilian Portuguese
-    * [Criptomoeda.org](https://www.criptomoeda.org/)
+* [Criptomoeda.org](https://www.criptomoeda.org/)
+* [News BTC](https://www.newsbtc.com/)
 
 ## Forums
 * [Bitcoin Talk](https://bitcointalk.org/)
