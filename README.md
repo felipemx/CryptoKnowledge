@@ -151,6 +151,7 @@ A simple project to store useful links for whose want to get more information ab
     * [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg/videos)
     * [FoxBit](https://www.youtube.com/channel/UC0F16q5QzJx7oIWoC5arEtg/videos)
     * [OriginalMy](https://www.youtube.com/channel/UCsuCRvPo8qNcjMDT3h7qtKA/videos)
+    * [Aprendizado Cripto](https://www.youtube.com/channel/UCI1E2XjicrgcMAoGp_Kf_yA/videos)
 
 ## Monitoring
 * Websites
